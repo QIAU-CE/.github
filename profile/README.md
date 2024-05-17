@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/QSSLibrary">
-  <img src="https://github.com/QIAU-CE/Assets/blob/main/images/ce-department.jpg.jpg?raw=true"></a>
+  <img src="https://github.com/QIAU-CE/Assets/blob/main/images/ce-department.jpg?raw=true"></a>
 </p>
 
 <div align="center">
