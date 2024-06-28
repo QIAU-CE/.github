@@ -8,6 +8,52 @@
     <p>Welcome to the GitHub organization of the Computer Engineering Department at Qazvin Islamic Azad University (QIAU). This organization is created to facilitate collaboration, learning, and innovation among students of the Computer Engineering program</p>
 </div>
 
+## Current Members (9)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ramtinkosari.png" width="100px;" alt="Ramtin Kosari"/>
+      <br />
+      <b><a href="https://github.com/ramtinkosari">Ramtin Kosari</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ChefParsa.png" width="100px;" alt="Parsa Karbasi"/>
+      <br />
+      <b><a href="https://github.com/ChefParsa">Parsa Karbasi</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ErfanDE10.png" width="100px;" alt="Erfan Zarabadi"/>
+      <br />
+      <b><a href="https://github.com/ErfanDE10">Erfan Zarabadi</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/atenakarimis.png" width="100px;" alt="Atena Karimi"/>
+      <br />
+      <b><a href="https://github.com/atenakarimis">Atena Karimi</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/RandomUserUsingGitHub.png" width="100px;" alt="Armin Hashemi"/>
+      <br />
+      <b><a href="https://github.com/RandomUserUsingGitHub">Armin Hashemi</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sinakratos.png" width="100px;" alt="Sina Khoshzaban"/>
+      <br />
+      <b><a href="https://github.com/sinakratos">Sina Khoshzaban</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mahdizynali.png" width="100px;" alt="Mehdi Zeynali"/>
+      <br />
+      <b><a href="https://github.com/mahdizynali">Mehdi Zeynali</a></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mosioc.png" width="100px;" alt="Mehdi Maleki"/>
+      <br />
+      <b><a href="https://github.com/mosioc">Mehdi Maleki</a></b>
+    </td>
+  </tr>
+</table>
+
 ## What You Can Find Here
 - **Projects:** Share your projects, collaborate with others, and contribute to open-source initiatives.
 - **Course Materials:** Access course-related materials, including lecture notes, assignments, and supplementary resources.
