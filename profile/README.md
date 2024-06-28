@@ -51,6 +51,11 @@
       <br />
       <b><a href="https://github.com/mosioc">Mehdi Maleki</a></b>
     </td>
+    <td align="center">
+      <img src="https://github.com/amir-rs.png" width="100px;" alt="Amir Salehi"/>
+      <br />
+      <b><a href="https://github.com/amir-rs">Amir Salehi</a></b>
+    </td>
   </tr>
 </table>
 
