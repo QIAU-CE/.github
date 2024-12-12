@@ -47,11 +47,6 @@
       <b><a href="https://github.com/mahdizynali">Mehdi Zeynali</a></b>
     </td>
     <td align="center">
-      <img src="https://github.com/mosioc.png" width="100px;" alt="Mehdi Maleki"/>
-      <br />
-      <b><a href="https://github.com/mosioc">Mehdi Maleki</a></b>
-    </td>
-    <td align="center">
       <img src="https://github.com/amir-rs.png" width="100px;" alt="Amir Salehi"/>
       <br />
       <b><a href="https://github.com/amir-rs">Amir Salehi</a></b>
